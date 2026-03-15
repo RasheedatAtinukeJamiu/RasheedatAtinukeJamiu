@@ -10,7 +10,7 @@ I am a results-oriented **DevOps Engineer** and **Technical Writer** with a stro
 *   **DevOps & Infrastructure:** Specializing in **AWS** (CloudWatch, IAM) and **Google Cloud Platform** (Cloud Run). I use **Terraform** for Infrastructure as Code (IaC) to build reproducible environments.
 *   **Observability:** Expert in setting up full-stack observability with **Grafana**, **Prometheus**, **Tempo**, and **Jaeger**.
 *   **AI & Automation:** Developing AI-driven solutions using Google’s **Agent Development Kit (ADK)** and FastAPI.
-*   **Technical Writing:** I bridge the gap between complex engineering concepts and practical implementation through my writing on [Medium](https://medium.com/@rasheedat-jamiu).
+
 
 ---
 
