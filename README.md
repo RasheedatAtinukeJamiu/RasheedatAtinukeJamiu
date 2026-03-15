@@ -32,7 +32,6 @@ I am a results-oriented **DevOps Engineer** and **Technical Writer** with a stro
 
 ### 🤝 Connect with me
 *   **LinkedIn:** [linkedin.com/in/rasheedat-atinuke-jamiu](https://www.linkedin.com/in/rasheedat-atinuke-jamiu)
-*   **Location:** Nigeria 🇳🇬
 
 ---
 *"Building for scale, securing for peace of mind, and writing for the community."*
