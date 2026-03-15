@@ -1,57 +1,39 @@
-# pizza-time-calculator
+# Hi there, I'm Rasheedat Atinuke Jamiu 👋
 
-[![Fun](https://img.shields.io/badge/mood-awesome-pink.svg)]()
-[![Pizza](https://img.shields.io/badge/pizza-approved-success.svg)]()
+### DevOps Engineer | Technical Writer | Cloud & Observability Specialist
 
-A highly scientific calculator for determining optimal pizza consumption timing and slice distribution algorithms.
+I am a results-oriented **DevOps Engineer** and **Technical Writer** with a strong foundation in cloud infrastructure, observability, and data engineering. I am passionate about building secure, scalable, and observable systems, and I actively contribute to the **Google Cloud Community**.
 
-**Warning**: This code may contain traces of caffeine and late-night debugging sessions.
+---
 
-## Quick Start (if you're brave)
+### 🚀 Professional Focus
+*   **DevOps & Infrastructure:** Specializing in **AWS** (CloudWatch, IAM) and **Google Cloud Platform** (Cloud Run). I use **Terraform** for Infrastructure as Code (IaC) to build reproducible environments.
+*   **Observability:** Expert in setting up full-stack observability with **Grafana**, **Prometheus**, **Tempo**, and **Jaeger**.
+*   **AI & Automation:** Developing AI-driven solutions using Google’s **Agent Development Kit (ADK)** and FastAPI.
+*   **Technical Writing:** I bridge the gap between complex engineering concepts and practical implementation through my writing on [Medium](https://medium.com/@rasheedat-jamiu).
 
-```bash
-npm install pizza-time-calculator
-```
+---
 
-## Usage (probably)
+### 🛠️ Technical Toolkit
+*   **Cloud Platforms:** Google Cloud (GCP), AWS
+*   **Observability:** Grafana, Prometheus, Tempo, Jaeger, OpenTelemetry
+*   **Infrastructure:** Terraform, Docker, Kubernetes, CI/CD Security (eBPF)
+*   **Programming:** Python (Pandas, NumPy), Go (Structured Logging), FastAPI
+*   **Data Science:** Exploratory Data Analysis (EDA), Data Wrangling, Visualization
 
-```javascript
-const { calculateOptimalSliceDistribution } = require('pizza-time-calculator');
+---
 
-// Calculate how many slices each person gets
-const result = calculateOptimalSliceDistribution({
-  pizzaCount: 3,
-  people: 8,
-  hungerLevel: 'ravenous'
-});
+### 📈 Professional Highlights
+*   **Google Cloud Community Contributor:** Actively sharing insights and tutorials on cloud-native technologies.
+*   **Speaker:** Presented on "Securing CI/CD Runners with extended Berkeley Packet Filter (eBPF)" at GDG San Jose.
+*   **Community Lead:** Alumna of She Codes Africa (SCA) Mentorship Program.
 
-console.log('Slice distribution:', result);
-// Output: { slicesPerPerson: 3, leftovers: 0, happiness: 98% }
-```
+---
 
-## Features
+### 🤝 Connect with me
+*   **LinkedIn:** [linkedin.com/in/rasheedat-atinuke-jamiu](https://www.linkedin.com/in/rasheedat-atinuke-jamiu)
+*   **Medium:** [@rasheedat-jamiu](https://medium.com/@rasheedat-jamiu)
+*   **Location:** Nigeria 🇳🇬
 
-- ✨ Magic included
-- 🐛 Some bugs free of charge
-- 📚 Documentation-ish
-- 🍕 Pizza-based algorithms
-- ⏰ Time optimization (for eating)
-
-## Known Issues
-
-- Works on my machine
-- May cause existential crises
-- Occasionally recommends pineapple on pizza
-- Time calculations may be off during pizza emergencies
-
-## Contributing
-
-Pull requests welcome! Or don't. I'm not your boss.
-
-## License
-
-WTFPL - Do What The F*ck You Want Public License
-
-# Touch update: 1761210623
-
-# Touch update: 1761210624
+---
+*"Building for scale, securing for peace of mind, and writing for the community."*
